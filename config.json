@@ -1,0 +1,189 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#ffffff",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#e6e6e6",
+            "text": "#7B1F82",
+            "text-black": "#000000",
+            "table-head": "#7B1F82",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#000000",
+            "yellow": "#E4B448",
+            "yellow-button": "#7B1F82",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#d1d1d1",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#7b1f82",
+            "providers-back": "#d1d1d1",
+            "faq-label": "#d1d1d1",
+            "bg-footer": "#7b1f82",
+            "copyright": "#e7e7d5",
+            "starColor": "#7b1f82",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6596"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6597",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Joa Luxeuil"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6606",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Joa Luxeuil"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Joa Luxeuil",
+                    "title": "Casino JOA Luxeuil : aperçu de notre casino pour nos clients",
+                    "description": "Découvrez Casino JOA Luxeuil à travers une présentation claire et orientée client, fondée uniquement sur les informations vérifiées fournies, avec une vue d’ensemble structurée de notre casino.",
+                    "canonical": "casino-joa-luxeuil.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6599",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-joa-luxeuil.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6600"
+                },
+                "hero": {
+                    "title": "Présentation de Casino JOA Luxeuil",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6601",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6602",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "Some text before list",
+                    "items": [
+                        "Identité claire renforçant la reconnaissance client",
+                        "Contenu vérifié soutenant une confiance durable",
+                        "Structure lisible facilitant l’accès aux informations",
+                        "Ton orienté client favorisant une évaluation sereine"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino Joa Luxeuil App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6603",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Joa Luxeuil App",
+                    "mobileGooglePlayImageTitle": "Casino Joa Luxeuil App",
+                    "mobileIosImageTitle": "Casino Joa Luxeuil App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "Faits intéressants",
+                        "items": [
+                            "Notre casino propose 90 machines à sous, avec des mises à partir de 0,01 €, ce qui rend l’offre à la fois large et accessible à différents profils de jeu.",
+                            "Nous accueillons nos clients 7j\/7 : de 10h à 2h du lundi au jeudi ainsi que le dimanche et les jours fériés, et jusqu’à 3h le vendredi, le samedi et les veilles de jours fériés.",
+                            "Notre établissement réunit plusieurs univers de loisirs sur un même site : jeux, restaurant, bar, hôtel 3 étoiles, bowling et thermes à proximité."
+                        ],
+                        "description2": "L’histoire du casino de Luxeuil-les-Bains est liée au développement thermal de la ville elle-même. L’office de tourisme de Luxeuil-les-Bains présente ce quartier comme faisant partie de l’univers thermal de la Belle Époque, où les loisirs occupaient déjà une place importante dans la vie de la station.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6604",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino Joa Luxeuil",
+                        "description3": " À cette époque, la ville possédait déjà un ancien casino, installé dans les bâtiments de l’actuel Espace Frichet. On y trouvait non seulement des jeux d’argent, mais aussi du billard, des concerts, des soirées théâtrales et des bals. Cela montre que, dès l’origine, le casino n’était pas seulement un lieu de jeu, mais aussi un élément marquant de la vie culturelle locale.\nL’étape suivante confirmée remonte à 1956. Selon les informations de l’office de tourisme, c’est à cette date qu’a été construit le casino actuel, implanté 50 mètres plus haut sur l’avenue des Thermes que l’ancien établissement. Aujourd’hui, le site officiel de JOA indique l’adresse du casino au 16 rue des Thermes, 70300 Luxeuil-les-Bains, ce qui montre que le casino actuel reste pleinement intégré au quartier thermal historique de la ville.\n\nDans son histoire contemporaine, l’établissement fonctionne sous le nom de Casino JOA de Luxeuil. Le site officiel de JOA confirme que le Groupe JOA a été créé en 2008 et développe ses établissements comme de véritables destinations de loisirs, c’est-à-dire des espaces qui ne se limitent pas au jeu. À Luxeuil, cela se reflète dans le format actuel du site : en plus des jeux, la page officielle mentionne un restaurant, un bar, un hôtel 3 étoiles, un bowling et la proximité des thermes."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux et avantages",
+                        "description": "<p>Dans notre casino, nous vous proposons une expérience de jeu riche, moderne et pensée pour tous les styles de joueurs. Chez nous, vous profitez d’un espace vivant où les sensations du casino se déclinent entre machines à sous, jeux de table traditionnels et jeux électroniques, dans une ambiance accueillante et dynamique au cœur de Luxeuil-les-Bains.<\/p>\n\n<br>\n\n<p>Notre offre de jeux permet de varier les plaisirs à tout moment de la journée. Nous mettons à votre disposition 100 machines à sous avec des mises à partir de 0,01 €, ainsi qu’une sélection attractive de jeux de table comme le Black Jack, l’Ultimate Poker et la Roulette anglaise. Nous proposons également des formats électroniques pour prolonger l’expérience avec encore plus de rythme et de flexibilité.<\/p>\n\n<br>\n\n<p>Chez nous, chacun peut avancer à son rythme grâce à une offre pensée pour être à la fois accessible et stimulante. Les mises de départ permettent de découvrir plusieurs univers de jeu dans un cadre confortable, que vous veniez pour une première expérience ou pour retrouver vos jeux favoris dans une ambiance plus experte.<\/p>\n\n<br>\n\n<p>Nous faisons vivre notre salle de jeux avec une énergie permanente, grâce à une offre ouverte tous les jours et à une variété qui permet de passer facilement d’un style de jeu à un autre. Cette diversité renforce le plaisir de visite et donne à notre casino une identité dynamique, élégante et toujours animée.<\/p>\n\n<br>\n\n<p>Chez nous, le plaisir du jeu se prolonge aussi avec les jackpots, les nouveautés et les événements organisés tout au long de l’année. Notre programme met régulièrement en avant des animations, des temps forts et des nouveautés en salle, pour offrir à chaque visite une atmosphère renouvelée et encore plus de raisons de revenir jouer dans notre établissement.<\/p>\n\n<br>\n\n<p>Nous mettons également en valeur les gains et les jackpots en cours pour faire vivre encore davantage l’émotion du jeu sur place. Cette mise en avant des opportunités du moment renforce l’intensité de l’expérience et donne à notre univers une énergie toujours en mouvement, portée par le plaisir, la surprise et l’adrénaline.<\/p>\n\n<br>\n\n<p>Nous valorisons aussi la fidélité de nos visiteurs grâce au Club JOA. Avec ce programme, nous vous permettons de cumuler des points sur les machines à sous, les jeux de table, le bar et le restaurant, puis de les convertir en avantages concrets. Chez nous, cette approche renforce le confort de visite et transforme chaque passage en expérience encore plus avantageuse.<\/p>\n\n<br>\n\n<p>Notre carte Club JOA est gratuite et sans engagement, avec une adhésion simple et rapide directement à l’accueil de notre casino. Elle vous permet de profiter plus facilement de notre univers, de suivre vos avantages et de prolonger chaque visite avec encore plus de privilèges personnalisés.<\/p>\n\n<br>\n\n<p>Grâce à ce programme, nous faisons de la fidélité un vrai prolongement du plaisir. Les points accumulés peuvent être transformés en parties gratuites et en repas offerts, ce qui relie naturellement le jeu, la gourmandise et l’ambiance de notre établissement dans une seule et même expérience.<\/p>\n\n<br>\n\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Caractéristique\n      <\/th>\n      <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Machines à sous\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        100 machines à sous avec mises à partir de 0,01 €\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jeux de table\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Black Jack, Ultimate Poker et Roulette anglaise, ouverts tous les jours\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jeux électroniques\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Black jack électronique et Roulette anglaise électronique\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Mises de départ\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        À partir de 5 € au Black Jack, 2 € à l’Ultimate Poker, 2 € au Black jack électronique et 1 € à la Roulette anglaise électronique\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jackpots\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jackpots à gagner et jackpots remportés mis en avant sur notre site\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Événements\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Animations et nouveautés régulières dans notre casino\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Club JOA\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Cumul de points sur les jeux, le bar et le restaurant, avec avantages, repas offerts, parties gratuites et invitations VIP\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Saveurs et services",
+                        "description": "\n<p>Dans notre casino, nous allons bien au-delà du jeu pour vous proposer une sortie complète, conviviale et confortable. Nous réunissons au même endroit restauration, bar, hôtel et loisirs, afin que chaque visite puisse se transformer en véritable moment de détente, de gourmandise et de divertissement à Luxeuil-les-Bains.<\/p>\n\n<br>\n\n<p>Notre restaurant Le Comptoir JOA enrichit pleinement l’expérience sur place. Nous vous y accueillons 7 jours sur 7 dans un cadre bistrot moderne, avec une cuisine revisitée à base de produits locaux et de saison. En été, notre belle terrasse apporte encore plus de confort, et l’entrée indépendante du restaurant permet à toute la famille de venir profiter de ce moment gourmand en toute simplicité.<\/p>\n\n<br>\n\n<p>Nous vous proposons aussi notre Bar des sports, un lieu vivant et chaleureux pour prolonger la sortie autour d’un verre, d’une ambiance sportive et d’une offre snacking. Avec sa large sélection de boissons, sa diffusion des représentations sportives, sa terrasse et ses horaires étendus, cet espace complète parfaitement l’énergie de notre casino et de nos soirées.<\/p>\n\n<br>\n\n<p>Pour prolonger l’expérience, nous mettons également à votre disposition l’hôtel Le Clos Rebillotte***, idéalement situé à deux pas du casino, des thermes, du cinéma et du théâtre. Avec ses 21 chambres, son parking privé gratuit, ses chambres climatisées et sa proximité avec le centre-ville historique et la gare, nous proposons une solution de séjour confortable et très pratique. Chez nous, bowling et cinéma viennent aussi compléter l’offre pour créer une destination de loisirs vraiment complète.<\/p>\n\n<br>\n\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Service\n      <\/th>\n      <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Restaurant\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Le Comptoir JOA, ouvert 7j\/7, avec cuisine bistrot revisitée, produits locaux et de saison, et terrasse en été\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Accès au restaurant\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Entrée indépendante du casino, accessible à toute la famille\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Bar des sports\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Ouvert tous les jours, avec boissons, snacking, diffusion sportive et terrasse\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Confort sur place\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Parking gratuit, wifi gratuit, climatisation, accès PMR et espaces privatisables\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Hôtel\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Hôtel Le Clos Rebillotte*** de 21 chambres, ouvert toute l’année, 7j\/7\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Situation de l’hôtel\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        À deux pas du casino, des thermes, du cinéma et du théâtre, à 10 min à pied du centre-ville historique et de la gare\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Loisirs\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Bowling et cinéma pour prolonger l’expérience de loisirs\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Horaires du casino\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Ouvert tous les jours toute l’année, de 10h à 2h et jusqu’à 3h le vendredi, le samedi et les veilles de jour férié\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "FAQ Question 1",
+                            "answer": "FAQ Answer 1"
+                        },
+                        {
+                            "title": "FAQ Question 2",
+                            "answer": "FAQ Answer 2"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
