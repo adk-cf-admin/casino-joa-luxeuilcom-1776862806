@@ -174,12 +174,24 @@
                     "title": "FAQ",
                     "items": [
                         {
-                            "title": "FAQ Question 1",
-                            "answer": "FAQ Answer 1"
+                            "title": "Où se situe notre casino ?",
+                            "answer": "Notre casino se situe au 16 rue des Thermes, 70300 Luxeuil-les-Bains."
                         },
                         {
-                            "title": "FAQ Question 2",
-                            "answer": "FAQ Answer 2"
+                            "title": "Quels sont nos horaires d’ouverture ?",
+                            "answer": "Nous accueillons nos clients 7j\/7 : de 10h à 2h du lundi au jeudi, le dimanche et les jours fériés, puis de 10h à 3h le vendredi, le samedi et les veilles de jours fériés."
+                        },
+                        {
+                            "title": "Quelle offre de jeux proposons-nous ?",
+                            "answer": "Nous proposons notamment des machines à sous, du Black Jack, du poker, de la roulette anglaise, du Black Jack électronique et de la roulette anglaise électronique."
+                        },
+                        {
+                            "title": "Quelles conditions d’accès nos clients doivent-ils connaître ?",
+                            "answer": "L’accès aux salles de jeux est réservé aux personnes majeures, avec pièce d’identité obligatoire et tenue correcte exigée."
+                        },
+                        {
+                            "title": "Quels services et équipements sont disponibles sur place ?",
+                            "answer": "Nous proposons notamment un parking gratuit, le wifi gratuit, un accès PMR, une terrasse, un hôtel 3 étoiles, un restaurant, un bar et un bowling."
                         }
                     ]
                 }
